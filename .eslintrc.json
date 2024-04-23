@@ -1,0 +1,11 @@
+{
+  "rules": {
+    "no-restricted-globals": [
+      "error",
+      {
+        "name": "self",
+        "message": "Use of 'self' is allowed in service worker files."
+      }
+    ]
+  }
+}

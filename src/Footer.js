@@ -66,10 +66,7 @@ function Footer() {
           </li>
         </ul>
       </div>
-      <h1>
-        Developed By: <a href="https://www.amarebiyabeyin.com/">Amare Biyabeyin</a>
-      </h1>
-    </div>
+    </div> // Closing div for footer
   );
 }
 
